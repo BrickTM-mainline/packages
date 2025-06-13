@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "test-package",
+      "version": "test-version",
+      "upload_date": "test-date",
+      "folder": "test-package"
+    },
+    {
+      "name": "test-app",
+      "version": "test-version",
+      "upload_date": "test-date", 
+      "folder": "test-app"
+    },
+    {
+      "name": "test-library",
+      "version": "test-version",
+      "upload_date": "test-date",
+      "folder": "test-library"
+    },
+    {
+      "name": "test-driver",
+      "version": "test-version", 
+      "upload_date": "test-date",
+      "folder": "test-driver"
+    }
+  ]
+}
