@@ -1,6 +1,8 @@
 # / AArch64 multi-platform
-# Maintainer: Kevin Mihelich <kevin@archlinuxarm.org>
-# Maintainer: graysky <therealgraysky AT proton DOT me>
+# Package Maintainer: domin746826
+# Package Maintainer: rmux
+# Original Package Maintainer: Kevin Mihelich <kevin@archlinuxarm.org>
+# Original Package Maintainer: graysky <therealgraysky AT proton DOT me>
 
 buildarch=8
 
